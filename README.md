@@ -1,6 +1,8 @@
 # farsight
 
-This library is meant for the browser, but works on any platform.
+Ever paste a URL into a comment field and see a preview of that website? This library gives you that feature.
+
+This library works on any platform that can make HTTP requests.
 
 Given a URI it returns information.
 
