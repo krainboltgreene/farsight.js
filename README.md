@@ -1,5 +1,7 @@
 # farsight
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/krainboltgreene/farsight.js.svg)](https://greenkeeper.io/)
+
 Ever paste a URL into a comment field and see a preview of that website? This library gives you that feature.
 
 This library works on any platform that can make HTTP requests.
