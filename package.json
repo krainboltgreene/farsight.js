@@ -1,6 +1,6 @@
 {
   "name": "farsight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library that fetches a URI and creates data about that resource",
   "main": "transpiled/source/index.js",
   "scripts": {
